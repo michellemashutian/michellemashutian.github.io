@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-04-26 15:59:00-0400
+date: 2022-07-01 15:59:00-0400
 inline: true
 ---
 
-Two papers are accepted by IJCNN 2022 ~
+Our paper "*Hotness prediction of scientific topics based on a bibliographic knowledge graph*" is accepted by Information Processing & Management ~

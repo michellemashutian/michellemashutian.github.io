@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Previously: Data Scientist</b> @ <a href='https://www.tencent.com/en-us/'>Tencent</a> 
+subtitle: <b>Data Scientist</b> 
+# @ <a href='https://www.tencent.com/en-us/'>Tencent</a> 
 # • <b>Previously:</b> <a href='https://www.indiana.edu/'>Indiana University Bloomington</a> 
 
 profile:

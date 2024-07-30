@@ -10,15 +10,14 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p> Tencent Building 12 </p>
-    <p>Shenzhenwan Science and Technology Ecological Garden</p>
-    <p>Shenzhen, China</p>
+    <p>Sunnyvale</p>
+    <p>California, USA</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, I am Shutian Ma, a data scientist at [Tencent](https://www.tencent.com/en-us/). Currently I am working on user research design and analysis using Natural Language Understanding techniques. 
+Hi, I am Shutian Ma, a data scientist at [Tencent](https://www.tencent.com/en-us/) from 2021 to 2023, working on user research design and analysis using Natural Language Understanding techniques. I moved to USA in 2024, open to work now.
 
 Before joining Tencent, I received my Ph.D. degree in Management at [Nanjing University of Science & Technology](https://english.njust.edu.cn/), advised by Prof. [Chengzhi Zhang](https://chengzhizhang.github.io/) in 2021. My bachelor degree is also received in the Nanjing University of Science & Technology. 
 

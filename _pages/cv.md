@@ -4,5 +4,5 @@ permalink: /cv/
 title: curriculum vitae
 nav: true
 nav_order: 4
-cv_pdf: cv.pdf
+cv_pdf: Shutian resume.pdf
 ---

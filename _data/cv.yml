@@ -26,13 +26,19 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Data Scientist
+    - title: NLP Engineer
+      institution: Wuxi Lead Intelligent Equipment, Wuxi, China
+      year: 10/2023 - 12/2023
+      description:
+        - AI Algorithm Group in Lithium Battery Business.
+        - Question Answering, Knowledge Graph.
+    - title: NLP Engineer
       institution: Tencent, Shenzhen, China
-      year: 04/2021 - now
+      year: 04/2021 - 08/2023
       description:
         - Customer Research & User Experience Design Center.
         - Data preprocessing, Name entity extraction, Knowledge Graph.
-    - title: Data Scientist Intern
+    - title: NLP Engineer Intern
       institution: Tencent, Shenzhen
       year: 07/2020 - 04/2021
       description:

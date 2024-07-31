@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Data Scientist</b> 
+subtitle: <b>NLP Engineer</b> 
 # @ <a href='https://www.tencent.com/en-us/'>Tencent</a> 
 # • <b>Previously:</b> <a href='https://www.indiana.edu/'>Indiana University Bloomington</a> 
 
@@ -18,7 +18,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, I am Shutian Ma, a data scientist at [Tencent](https://www.tencent.com/en-us/) from 2021 to 2023, working on user research design and analysis using Natural Language Understanding techniques. **I moved to USA in 2024, open to work now**.
+Hi, I am Shutian Ma, a NLP engineer at [Tencent](https://www.tencent.com/en-us/) from 2021 to 2023, working on user research data analysis using Natural Language Processing techniques. **I moved to USA in 2024, open to work now**.
 
 Before joining Tencent, I received my Ph.D. degree in Management at [Nanjing University of Science & Technology](https://english.njust.edu.cn/), advised by Prof. [Chengzhi Zhang](https://chengzhizhang.github.io/) in 2021. My bachelor degree is also received in the Nanjing University of Science & Technology. 
 

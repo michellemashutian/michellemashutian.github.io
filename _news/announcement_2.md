@@ -1,3 +1,13 @@
+---
+layout: post
+date: 2022-07-01 18:59:00-0400
+inline: true
+---
+
+Our paper "*Hotness prediction of scientific topics based on a bibliographic knowledge graph*" is accepted by Information Processing & Management ~
+
+
+
 <!-- ---
 layout: post
 title: A long announcement with details

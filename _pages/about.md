@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Independent AI Researcher|Machine Learning & NLP Engineer|Data Scientist</b>
+subtitle: <b>Independent AI Researcher | Machine Learning & NLP Engineer | Data Scientist</b>
 
 profile:
   align: right
@@ -25,15 +25,15 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-👋 Hi, I'm Shutian! A researcher by day, code explorer by night, and a lifelong learner in between. I navigate the world of machine learning, NLP, and a bit of leetcode. Yes! I'm open to new opportunities! 🚀
+👋 Hi, I'm Shutian! A researcher by day, code explorer by night, and a lifelong learner in between. I navigate the world of machine learning, NLP, and a bit of leetcode.  
 
-I was a NLP engineer at [Tencent](https://www.tencent.com/en-us/) for three years. Before Tencent, I interned at [ByteDance](https://www.bytedance.com/en/) and a now-defunct startup. Before moving to US, I did a short stint at [Wuxi Lead Intelligent Equipment](https://www.leadintelligent.com/en/), helping improve an industry-focused AI system.
+<b>Yes! I'm open to new opportunities!</b> 🚀
 
-Now, I work as a freelance Academic Mentor at [Woen](https://appakl7qnoo1285.pc.xiaoe-tech.com/), AI Deployment & Media Specialist at [Fizzdragon](https://fizzdragon.com/). On the side, I mentor students—one of them just submitted a short paper to ACL on LLM evaluation in scientific text summarization (fingers crossed 🤞).
+I was a NLP engineer at [Tencent](https://www.tencent.com/en-us/) for three years. Before that, I interned at [ByteDance](https://www.bytedance.com/en/) and a now-defunct startup. I also did a short stint at [Wuxi Lead Intelligent Equipment](https://www.leadintelligent.com/en/), on improving an industrial Q&A system.
 
-I received my Ph.D. degree in Information Science at [Nanjing University of Science and Technology](https://english.njust.edu.cn/) under Prof. [Chengzhi Zhang](https://chengzhizhang.github.io/) in 2021. Besides, I was a visiting scholar at [Indiana University Bloomington](https://luddy.indiana.edu/index.html) , advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me/) and Prof. [Katy Börner](https://cns-iu.github.io/katy/).
+Now, I work as a freelance Academic Mentor at [Woen](https://appakl7qnoo1285.pc.xiaoe-tech.com/), AI Deployment & Media Specialist at [Fizzdragon](https://fizzdragon.com/). One of my student just submitted a short paper to ACL on LLM evaluation in scientific text summarization🤞.
+
+I earned my Ph.D. in Information Science at [Nanjing University of Science and Technology](https://english.njust.edu.cn/) under Prof. [Chengzhi Zhang](https://chengzhizhang.github.io/) in 2021 and was a visiting scholar at [Indiana University Bloomington](https://luddy.indiana.edu/index.html) , advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me/) and Prof. [Katy Börner](https://cns-iu.github.io/katy/).
 
 <b>What I Do Best</b>
-I can handle classic NLP tasks (NER, text classification/clustering, sentiment analysis, knowledge graphs), build machine learning and deep learning models, and fine-tune LLMs. I also understand RAG—while I don’t have much hands-on experience with it yet, I learn fast and adapt even faster.
-
-If you're looking for an NLP/machine learning engineer, or someone who can turn coffee into code, let’s connect! ☕💻
+I can handle classic NLP tasks (NER, text classification/clustering, knowledge graphs..), machine learning & deep learning models, and LLMs. I learn fast and adapt even faster. If you're looking for an NLP/machine learning engineer, let’s connect! ☕💻

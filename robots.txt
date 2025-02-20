@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://michellemashutian.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://shutian.me//sitemap.xml

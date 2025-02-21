@@ -35,5 +35,4 @@ Now, I work as a freelance Academic Mentor at [Woen](https://appakl7qnoo1285.pc.
 
 I earned my Ph.D. in Information Science at [Nanjing University of Science and Technology](https://english.njust.edu.cn/) under Prof. [Chengzhi Zhang](https://chengzhizhang.github.io/) in 2021 and was a visiting scholar at [Indiana University Bloomington](https://luddy.indiana.edu/index.html) , advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me/) and Prof. [Katy Börner](https://cns-iu.github.io/katy/).
 
-<b>What I Do Best</b>
-I can handle classic NLP tasks (NER, text classification/clustering, knowledge graphs..), machine learning & deep learning models, and LLMs. I learn fast and adapt even faster. If you're looking for an NLP/machine learning engineer, let’s connect! ☕💻
+I can handle classic NLP tasks, machine learning & deep learning models, and LLMs. I learn fast and adapt even faster. If you're looking for an NLP/machine learning engineer, let’s connect! ☕💻

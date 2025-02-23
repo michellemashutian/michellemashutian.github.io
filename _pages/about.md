@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Research Interest</b>: NLP, LLMs, Machine learning & Deep learning
+subtitle: <b>Research Interest</b> NLP, LLMs, Machine learning & Deep learning
 
 profile:
   align: right

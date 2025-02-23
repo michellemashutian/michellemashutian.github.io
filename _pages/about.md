@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Research Interest</b> NLP, LLMs, Machine learning & Deep learning
+subtitle: <b>NLP | LLMs | Machine learning & Deep learning</b>
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>1600 Whitewood Dr</p>
     <p>San Jose, CA 95131</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:

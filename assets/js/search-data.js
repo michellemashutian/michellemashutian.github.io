@@ -365,10 +365,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-announcement-3",
+          title: 'Announcement_3',
           description: "",
-          section: "News",},{id: "news-our-paper-citation-recommendation-based-on-argumentative-zoning-of-user-queries-is-accepted-by-journal-of-informetrics",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-our-paper-citation-recommendation-based-on-argumentative-zoning-of-user-queries-is-accepted-by-journal-of-informetrics",
           title: 'Our paper “Citation Recommendation based on Argumentative Zoning of User Queries” is accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",

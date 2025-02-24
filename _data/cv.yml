@@ -3,70 +3,54 @@
   contents:
     - name: Full Name
       value: Shutian Ma
-    - name: Date of Birth
-      value: 8th June, 1992
+    - name: Contact
+      value: mashutian0608 [at] hotmail [dot] com
     - name: Languages
       value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D. in Information Science
       institution:  Nanjing University of Science & Technology, Nanjing, China
-      year: 1905
+      year: 2014 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Advised by Prof. <a href='https://chengzhizhang.github.io/'>Chengzhi Zhang</a> 
+    - title: B.M. in Information Management and System
+      institution: Nanjing University of Science & Technology, Nanjing, China
+      year: 2010 - 2014
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Freelance
+      institution: Fizzdrgaon / Volant Academic
+      year: 2024 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Media generation expertise integrating Midjourney and Runway for creative projects, deploying AI models like SD and FLUX, and customizing ComfyUI for advanced AI-powered applications.
+        - Academic mentorship in LLMs, multimodal AI, and data mining, guiding research projects, optimizing model performance, and contributing to impactful publications.
+
+    - title: NLP Engineer
+      institution: Wuxi Lead Intelligent Equipment, Wuxi, China
+      year: 2023
+      description: Parsed PDF files to build a full-text dataset and implemented a Retrieval-Augmented Generation system using LangChain, enabling retrieval of relevant text blocks via vectorized queries for LLM-based answer generation.
+
+    - title: Data Scientist
+      institution: Tencent, Shenzhen, China
+      year: 2020 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Constructed the training dataset for fine-tuning and developed a conversational model by applying LoRA to fine-tune ChatGLM-6B on domain-specific texts.
+        - Led a team of 4 outsourced members in data annotation, implemented brand and snack name recognition in UGC and supported the Smart Retail department in product selection.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: NLP Engineer Intern
+      institution:  Aegis, Nanjing, China
+      year: 2020
+      description:  Deployed an annotation platform using Doccano, implemented NER in legal text using BiLSTM+CRF.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: NLP Engineer Intern
+      institution: ByteDance, Beijing, China
+      year: 2019
+      description:  Developed a user query classification system with fastText, integrating user click behavior to recommend relevant ads, improving ad targeting efficiency through successful product deployment.
 
 - title: Honors and Awards
   type: time_table

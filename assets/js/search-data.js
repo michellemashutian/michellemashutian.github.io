@@ -365,12 +365,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-announcement-3",
-          title: 'Announcement_3',
+            },},{id: "news-our-paper-hotness-prediction-of-scientific-topics-based-on-a-bibliographic-knowledge-graph-is-accepted-by-information-processing-amp-amp-management",
+          title: 'Our paper “Hotness prediction of scientific topics based on a bibliographic knowledge graph”...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "news-our-paper-citation-recommendation-based-on-argumentative-zoning-of-user-queries-is-accepted-by-journal-of-informetrics",
+          section: "News",},{id: "news-our-paper-citation-recommendation-based-on-argumentative-zoning-of-user-queries-is-accepted-by-journal-of-informetrics",
           title: 'Our paper “Citation Recommendation based on Argumentative Zoning of User Queries” is accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",

@@ -55,27 +55,19 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - 研究生国家奖学金一等奖/National Postgraduate Scholarship First Prize
+        - 工信部创新创业奖学金一等奖/MIIT Innovation and Entrepreneurship Scholarship First Prize
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Natual Language Processing.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - traditional NLP tasks.
+        - LLMs.
+    - title: Data Mining.
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Clustering & Classification.
+        - Text Mining.

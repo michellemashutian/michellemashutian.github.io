@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: I have several lonely GitHub projects, patiently waiting for their first star. ⭐ If you want to be their hero, check them out here! 😆
+description: I have several lonely GitHub projects, patiently waiting for their first star. ⭐ If you want to be their hero, check them out <a href='https://scholar.google.com/citations?hl=en&user=D7wgsokAAAAJ'><b>here</b></a>! 😆
 nav: true
 nav_order: 4
 ---

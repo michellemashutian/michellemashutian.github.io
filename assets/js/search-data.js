@@ -365,11 +365,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-hotness-prediction-of-scientific-topics-based-on-a-bibliographic-knowledge-graph-is-accepted-by-information-processing-amp-amp-management",
-          title: 'Our paper “Hotness prediction of scientific topics based on a bibliographic knowledge graph”...',
-          description: "",
-          section: "News",},{id: "news-our-paper-citation-recommendation-based-on-argumentative-zoning-of-user-queries-is-accepted-by-journal-of-informetrics",
+            },},{id: "news-our-paper-citation-recommendation-based-on-argumentative-zoning-of-user-queries-is-accepted-by-journal-of-informetrics",
           title: 'Our paper “Citation Recommendation based on Argumentative Zoning of User Queries” is accepted...',
+          description: "",
+          section: "News",},{id: "news-our-paper-kedrec-lm-a-knowledge-distilled-explainable-drug-recommendation-large-language-model-is-avaliable-on-arxiv-now-in-this-study-we-utilize-open-source-drug-knowledge-graphs-clinical-trial-data-and-pubmed-publications-for-the-explainable-drug-discovery-task-using-llm",
+          title: 'Our paper “KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model” is avaliable...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

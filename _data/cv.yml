@@ -23,11 +23,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: GenAI Language Annotation Specialist
+      institution: Meta
+      year: 2025 - now
+      description:
+        - Rated and compared generative AI model responses based on linguistic standards. Contributed Simplified Chinese LLM data annotation to support research that led to a <a href='https://arxiv.org/pdf/2509.26601'>Meta AI publication</a>.
+
     - title: Freelance
-      institution: Fizzdrgaon / Volant Academic
+      institution: Volant Academic
       year: 2024 - now
       description:
-        - Media generation expertise integrating Midjourney and Runway for creative projects, deploying AI models like SD and FLUX, and customizing ComfyUI for advanced AI-powered applications.
         - Academic mentorship in LLMs, multimodal AI, and data mining, guiding research projects, optimizing model performance, and contributing to impactful publications.
 
     - title: NLP Engineer

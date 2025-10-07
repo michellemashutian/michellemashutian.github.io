@@ -30,9 +30,10 @@
         - Rated and compared generative AI model responses based on linguistic standards. Contributed Simplified Chinese LLM data annotation to support research that led to a <a href='https://arxiv.org/pdf/2509.26601'>Meta AI publication</a>.
 
     - title: Freelance
-      institution: Volant Academic
+      institution: AI Pipeline Deployment Engineer & Research Mentor
       year: 2024 - now
       description:
+        - Deployed and customized ComfyUI on both Linux servers and the Runpod serverless platform. Integrated custom nodes and models (e.g., FLUX via Diffusers). Built tailored Docker images with automation scripts to streamline client-specific deployment pipelines.
         - Academic mentorship in LLMs, multimodal AI, and data mining, guiding research projects, optimizing model performance, and contributing to impactful publications.
 
     - title: NLP Engineer

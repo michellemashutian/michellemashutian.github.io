@@ -23,6 +23,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Software Engineer
+      institution: Axon
+      year: 2025 - now
+      description:
+        - Conduct Audio LLM research and experiments, including audio data processing and model evaluation.
+
     - title: GenAI Language Annotation Specialist
       institution: Meta
       year: 2025 - now

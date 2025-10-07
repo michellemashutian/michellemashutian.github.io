@@ -65,15 +65,3 @@
       items:
         - 研究生国家奖学金一等奖/National Postgraduate Scholarship First Prize
         - 工信部创新创业奖学金一等奖/MIIT Innovation and Entrepreneurship Scholarship First Prize
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Natual Language Processing.
-      items:
-        - traditional NLP tasks.
-        - LLMs.
-    - title: Data Mining.
-      items:
-        - Clustering & Classification.
-        - Text Mining.

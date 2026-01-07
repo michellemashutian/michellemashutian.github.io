@@ -23,17 +23,17 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Software Engineer
-      institution: Axon
-      year: 2025 - now
-      description:
-        - Conduct Audio LLM research and experiments, including audio data processing and model evaluation.
-
     - title: GenAI Language Annotation Specialist
       institution: Meta
       year: 2025 - now
       description:
         - Rated and compared generative AI model responses based on linguistic standards. Contributed Simplified Chinese LLM data annotation to support research that led to a <a href='https://arxiv.org/pdf/2509.26601'>Meta AI publication</a>.
+    
+    - title: Machine Learning Engineer
+      institution: Axon
+      year: 2025 - 2025
+      description:
+        - Conduct Audio LLM research and experiments, including audio data processing and model evaluation.
 
     - title: Freelance
       institution: AI Pipeline Deployment Engineer & Research Mentor
